@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9b342e924b36f92165570a44",
+  "owner": "unuuhxwwx",
+  "repo": "page-10b81ff79c13d92b3046e464",
+  "title": "绝影飞驰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "10b81ff79c13d92b3046e464",
+      "a": "绝影飞驰",
+      "b": "稳定全球clash加速器",
+      "entity": "绝影飞驰",
+      "brand": "绝影飞驰",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8f40d05a4649640cff238bded32d5efc9d0f0a981261602a9a47d2765bfea4a8",
+      "content": {
+        "primary_entity": "绝影飞驰",
+        "keyword1": "绝影飞驰",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置更清晰。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "从合适的套餐开始，按设备文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻配置",
+          "AI_DESCRIPTION": "，从基础版到团队版，绝影飞驰按流量与设备数量划分订阅，方便按需选择，减少浪费。",
+          "AI_FEATURES_INTRO": "围绕套餐规格、设备数量与订阅周期，快速判断适合的版本。",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，适合多人协作。",
+          "AI_FEATURE_TITLE_1": "入门流量方案",
+          "AI_FEATURE_TITLE_2": "旗舰性能方案",
+          "AI_FEATURE_TITLE_3": "团队大流量方案",
+          "AI_GUIDE_INTRO": "先选服务，再核对设备，最后导入订阅，流程简洁。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "绝影飞驰提供多档订阅套餐，按流量、设备数量和线路类型区分，覆盖从轻量浏览到团队协作的不同场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选配",
+          "AI_HIGHLIGHT_1": "三档订阅灵活选择",
+          "AI_HIGHLIGHT_2": "按设备数量匹配套餐",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_PLANS_INTRO": "对比各档流量、设备数量与线路权益，选择匹配需求的版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，确保订阅可正常导入。",
+          "AI_STEP_TEXT_3": "参照客户端文档导入订阅链接，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "绝影飞驰套餐速览",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "绝影飞驰基础版支持几台设备在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机、平板加电脑的轻度组合。如果常用终端更多，可以升级到旗舰版获得 5 台设备上限。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏与实时交互场景，同时包含 300GB 月流量与 5 台设备在线。",
+          "AI_FAQ_QUESTION_3": "年付套餐比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，均比按月支付十二个月更划算，长期使用者可以优先考虑年付。",
+          "AI_FAQ_QUESTION_4": "绝影飞驰订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端文档中获取对应平台的订阅链接，复制到客户端后更新配置即可。路由器、电脑与手机步骤略有不同，按各自文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版能否用于多人协作环境？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，适合小团队或家庭多终端共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0nh3yjhe.com",
+    "host": "xn--9kqy4sc0nh3yjhe.com"
+  },
+  "file_hashes": {
+    "index.html": "2ba69703135677a892a10a59a345f3c1bf8bf52021e24f022bce9c8c03e49230",
+    "sitemap.xml": "db3b6df5964be03e4d8be5694efa1e1449714ebd9621ec65d1137b36ce7f1f37",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0428e9828985921e2387cf6b63178b6cdd98f3f2fb3a2f92f3f0fbd568216ca9",
+    "robots.txt": "f67ba951bb2a2678151922c3309be96bc011a6705e29b0603024c57ae77e9a2d",
+    "4950dd7297c1c023f1b4de43b3efe734.txt": "0a148cc0073cd00b6a5e8ca613f747643b03611ae90b8024bab800a1d528da81"
+  },
+  "revision": "b904dcecc0a1b67899b1e145ddc9c3818c45623d0a0174dfbf5e61bf531bfe5f"
+}
